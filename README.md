@@ -2,9 +2,9 @@
 
 ## 📌 Introduction
 
-This project analyzes 2023 data analyst job postings using SQL to identify trends in salaries, skills, and job demand.
+This project analyzes data analyst job postings from 2023 through 2025 using SQL to identify trends in salaries, skills, and job demand.
 
-The goal of this project is to answer practical job-market questions, including which data analyst roles paid the most, which skills were most in demand, and which skills were associated with higher salaries in 2023.
+The goal of this project is to answer practical job-market questions, including which data analyst roles paid the most, which skills were most in demand, and which skills were associated with higher salaries.
 
 🔗 **Check out the SQL queries:** [project_sql folder](project_sql)
 
@@ -18,7 +18,7 @@ While reading job descriptions on LinkedIn and Indeed, I started noticing that S
 
 I decided to learn SQL from the beginning and build this project as a way to practice real analysis, better understand the job market, and show employers my ability to learn technical skills independently.
 
-This project focuses on answering five main questions:
+For this project, I wrote five SQL queries to answer different questions about the data job market:
 
 1. What are the top-paying data analyst jobs?
 2. What skills are required for these top-paying jobs?
@@ -26,16 +26,6 @@ This project focuses on answering five main questions:
 4. Which skills are associated with higher salaries?
 5. What are the most optimal skills to learn for a data analyst looking to maximize job market value?
 
----
-
-## 🛠️ Tools I Used
-
-* **SQL**: The main language used to explore and analyze the job posting data.
-* **SQLite**: I first learned SQL using SQLite because it is simple, lightweight, and good for practicing the basics.
-* **PostgreSQL**: After learning the basics, I moved to PostgreSQL to practice using a more advanced database system.
-* **Visual Studio Code**: I used VS Code to write, organize, and manage my SQL files.
-* **Git & GitHub**: I used Git for version control and GitHub to store and share my project.
-* **Markdown**: I used Markdown to write and format this README.
 
 ---
 
@@ -242,12 +232,12 @@ I learned that one number does not always tell the full story. For example, a sk
 
 ### Insights
 
-From the 2023 job posting data, this project showed that data analyst roles in San Francisco and San Jose valued a mix of technical and analytical skills. Some skills appeared often across job postings, while other skills were connected to higher average salaries.
+From the 2023–2025 job posting data, this project showed that data analyst roles in San Francisco and San Jose valued a mix of technical and analytical skills. Some skills appeared often across job postings, while other skills were connected to higher average salaries.
 
 One important takeaway is that salary alone does not tell the full story. A skill may be linked to a high average salary, but if it appears in only a few postings, it may not be the most practical skill to focus on first. By comparing both demand and salary, I was able to identify skills that were more useful to prioritize.
 
 ### Closing Thoughts
 
-This project helped me practice SQL in a real-world context instead of only doing basic exercises. It also helped me better understand what employers were looking for in data analyst roles in 2023.
+This project helped me practice SQL in a real-world context instead of only doing basic exercises. It also helped me better understand what employers were looking for in data analyst roles from 2023 through 2025.
 
 As a recent Economics graduate looking for my first analyst role, this project gave me hands-on experience with SQL, PostgreSQL, VS Code, Git, GitHub, and Markdown. It also gave me a clearer direction for continuing to build my skills in SQL, Excel, and Power BI.
